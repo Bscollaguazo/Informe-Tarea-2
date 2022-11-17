@@ -193,6 +193,7 @@ CAPÍTULO 4
 
 
 5. CONCLUSIONES
+
 Se concluye que la ley de ohm puede ser aplicada en tres casos, cuandio se desconoce la corriente, la resistencia o el voltaje teniendo asi solo tres formulas de la ley de ohm que a la final serian la misma con incognitas depejadas
 
 En conclusión podemos decir que la Potencia eléctrica es directamente proporcional al trabajo que realiza una corriente al desplazarse por una carga e inversamente proporcional al tiempo que demora en realizarse este trabajo.
@@ -200,6 +201,7 @@ En conclusión podemos decir que la Potencia eléctrica es directamente proporci
 Podemos concluir que como potencia es la rapidez con que se realiza un trabajo, se puede decir que es el tiempo que tarda en hacer la fuerza con una energía.
 
 6. BIBLIOGRAFIA
+
 FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
 
 Nilsson, J. W., & Riedel, S. A. (2006). Circuitos electricos (Vuelapluma, Trans.; 7th ed.). Pearson Educacion.
