@@ -186,11 +186,6 @@ Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está op
 
 [![24.png](https://i.postimg.cc/XJMXNPd6/24.png)](https://postimg.cc/PL4d22SS)
 
-4. VIDEOS
-CAPÍTULO 3
-
-CAPÍTULO 4
-
 
 5. CONCLUSIONES
 
